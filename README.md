@@ -15,7 +15,7 @@
 
 **推荐交给 Codex 安装。**在 Codex 中发送：
 
-> 请从 GitHub 仓库 `https://github.com/Maertorp/ja-zh-subtitles` 安装 `ja-zh-subtitles` 技能，并按本 README 配置运行依赖、模型和字体。安装后检查 `SKILL.md` 与命令行工具是否可用；如果已有同名技能，先报告，不要覆盖。
+> 请从 GitHub 仓库 `https://github.com/jiamu-git/ja-zh-subtitles` 安装 `ja-zh-subtitles` 技能，并按本 README 配置运行依赖、模型和字体。安装后检查 `SKILL.md` 与命令行工具是否可用；如果已有同名技能，先报告，不要覆盖。
 
 手动安装时，把**整个仓库目录**放到 `$HOME/.agents/skills/ja-zh-subtitles/`，确保其中直接包含 `SKILL.md`；Codex 的[官方文档](https://learn.chatgpt.com/docs/build-skills)也列出了项目级安装位置。运行流程见 [执行手册](references/workflow.md)。
 
